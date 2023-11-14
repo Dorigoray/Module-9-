@@ -1,0 +1,29 @@
+.col {
+color:white;
+text-align: left;
+background-color: rgba(0, 255, 255, 0.705);
+}
+
+.button {
+    text-align: center;
+}
+
+h4 {
+    background-color: darkgray;
+}
+
+h6 {
+    background-color: darkgrey;
+}
+
+.m-0 {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+font-size: xx-large;
+color: black;
+}
+
+.card-body {
+    background-color: rgba(0, 255, 255, 0.705); 
+    border-style: dashed;
+    border-color: darkgray;
+}
